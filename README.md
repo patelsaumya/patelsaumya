@@ -2,7 +2,7 @@
 
 👋 I'm Saumya, final year B. Tech. Student in Computer Science & Engineering. I'm an Aspiring Software Engineer.
 
--   💯 Passionate about of everything that I get the hang of.
+-   💯 Passionate about everything that I get the hang of.
 -   🔭 Next in my Learning Checklist - NextJS & Android Development.
 -   📌 Building TradeStudio - where ⚙ meets 💰.
 -   😂 Fun Fact - I sing 🎤.
