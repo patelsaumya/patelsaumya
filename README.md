@@ -1,6 +1,6 @@
 ## 😎 Me
 
-👋 I'm Saumya, final year B. Tech. Student in Computer Science & Engineering. I'm an Aspiring Software Engineer.
+👋 I'm Saumya, Software Engineer.
 
 -   💯 Passionate about everything that I get the hang of.
 -   🔭 Next in my Learning Checklist - NextJS & Android Development.
