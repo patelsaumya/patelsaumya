@@ -17,10 +17,11 @@
 
 ## 📶 Skills
 
--   **Languages**: C/C++, Python, JavaScript, TypeScript
--   **Web**: React, Angular, Tailwind, HTML, CSS, Sass
--   **Backend**: Node.js, Express, MySQL
--   **DevOps**: Git, Firebase
+-   **Languages** : C/C++, Python, JavaScript, TypeScript
+-   **Web** : React, Angular, HTML, CSS, Sass
+-   **Backend / APIs** : Node.js
+-   **Database** : MySQL
+-   **DevOps** : Git, Firebase
 
 ## 🚀 Projects
 
