@@ -3,7 +3,7 @@
 👋 I'm Saumya, Software Engineer.
 
 -   💯 Passionate about everything that I get the hang of.
--   🔭 Next in my Learning Checklist - NextJS & Android Development.
+-   🔭 Next in my "Learning" Checklist - NextJS & Android Development.
 -   📌 Building TradeStudio - where ⚙ meets 💰.
 -   😂 Fun Fact - I sing 🎤.
 
