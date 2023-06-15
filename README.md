@@ -5,7 +5,6 @@
 -   💯 Passionate about everything that I get the hang of.
 -   🔭 Next in my "Learning" Checklist - NextJS & Android Development.
 -   📌 Building TradeStudio - where ⚙ meets 💰.
--   😂 Fun Fact - I sing 🎤.
 
 ☕ Let's have a coffee-chat and create something better together...
 
