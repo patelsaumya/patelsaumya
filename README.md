@@ -14,7 +14,7 @@
     - 🗣️: **[LinkedIn](https://www.linkedin.com/in/saumya-patel-9484b4249)** | **[Twitter](https://twitter.com/SaumyaPatel)**
     - 💻: **[LeetCode](https://leetcode.com/saumya_dev/)** | **[HackerRank](https://www.hackerrank.com/saumya_dev)** | **[CodeChef](https://www.codechef.com/users/saumya_dev)**
 
-## 📶 Skills
+## 🛠️ Skills
 
 -   **Languages** : C/C++, Python, JavaScript, TypeScript
 -   **Web** : React, Angular, HTML, CSS, Sass
