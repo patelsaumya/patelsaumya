@@ -3,8 +3,7 @@
 👋 I'm Saumya, Software Engineer.
 
 -   💯 Passionate about everything that I get the hang of.
--   🔭 Next in my "Learning" Checklist - NextJS & Android Development.
--   📌 Building TradeStudio - where ⚙ meets 💰.
+-   🔭 Next in my "Learning" Checklist - Artificial Intelligence 🤖.
 
 ☕ Let's have a coffee-chat and create something better together...
 
@@ -18,7 +17,7 @@
 
 -   **Languages** : C/C++, Python, JavaScript, TypeScript
 -   **Web** : React, Angular, HTML, CSS, Sass
--   **Backend / APIs** : Node.js
+-   **Backend / APIs** : Node.js, Django, FastAPI
 -   **Database** : MySQL
 -   **DevOps** : Git, Firebase
 
