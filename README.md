@@ -1,6 +1,6 @@
 ## 😎 Me
 
-👋 I'm Saumya, Software Engineer.
+👋 I'm Saumya, a Software Engineer.
 
 -   💯 Passionate about everything that I get the hang of.
 -   🔭 Next in my "Learning" Checklist - Artificial Intelligence 🤖.
