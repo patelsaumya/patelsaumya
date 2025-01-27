@@ -7,7 +7,6 @@
 
 ☕ Let's have a coffee-chat and create something better together...
 
--   📧 Reach me via: **saumyapatel.sap@gmail.com**
 -   🌐 Get to know me: **[Portfolio](https://linktr.ee/saumyapatel)**
 -   📡 Connect with me: 
     - 🗣️: **[LinkedIn](https://www.linkedin.com/in/saumya-patel-9484b4249)** | **[Twitter](https://twitter.com/SaumyaPatel)**
