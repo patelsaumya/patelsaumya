@@ -17,7 +17,7 @@
 -   **Languages** : C/C++, Python, JavaScript, TypeScript
 -   **Web** : React, Angular, HTML, CSS, Sass
 -   **Backend / APIs** : Node.js, Django, FastAPI
--   **Database** : MySQL
+-   **Database** : MySQL, PostgreSQL
 -   **DevOps** : Git, Firebase
 
 ## 🚀 Projects
