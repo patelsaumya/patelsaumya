@@ -14,8 +14,9 @@
 
 ## 🛠️ Skills
 
--   **Languages** : C/C++, Python, JavaScript, TypeScript
+-   **Languages** : C/C++, Python, JavaScript, TypeScript, Dart
 -   **Web** : Angular, React, HTML, CSS, Sass
+-   **Mobile** : Flutter
 -   **Backend / APIs** : Node.js, Django, Flask, FastAPI
 -   **Database** : MySQL, PostgreSQL
 -   **DevOps** : Git, Firebase
