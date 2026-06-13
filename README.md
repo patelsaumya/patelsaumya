@@ -35,7 +35,7 @@
 -   **[NewsForge](https://github.com/patelsaumya/NewsForge)  📰** - REST API for Hacker News article ingestion, browsing, and engagement, with AI-powered summaries, semantic similarity, auto-tagging, RAG search, and grounded Q&A.
 -   **[Coding-Agent](https://github.com/patelsaumya/Coding-Agent)  🧑‍💻** - Autonomous coding agent that plans tasks, writes and reviews code in a loop, and opens a GitHub pull request via GitHub MCP from natural-language input.
 -   **[Bookmyshow](https://github.com/patelsaumya/Bookmyshow)  🎬** - AI agent system for movie discovery, showtimes, and seat booking.
--   **[Voice-Agent](https://github.com/patelsaumya/Voice-Agent)  🎙️** - **Ordera (Ordering System)** — real-time voice conversation app.
+-   **[Ordera](https://github.com/patelsaumya/Voice-Agent)  🎙️** - Voice agent ordering system for real-time restaurant conversation, menu browsing, and order placement.
 -   **[Workflow-Agents](https://github.com/patelsaumya/Workflow-Agents)  🤖** - Multi-agent AI pipelines (Parallel, Sequential, Loop) for math problem solving, startup idea validation, and story generation.
 -   **[MegaCryption](https://megacryption.vercel.app/)  🔐** - Captivating visualizer that elucidates the intricate workings of cryptology algorithms.
 -   **[OSVIS](https://osvis.vercel.app/)  🖥️** - Disk scheduling algorithms of Operating System.
