@@ -33,6 +33,7 @@
     - **Notifications** — FCM push for likes, matches, app events, campaign updates, and announcements  
     - **Safety & settings** — Edit profile and photos, customize your Elee avatar, and block or unblock matched users
 -   **[NewsForge](https://github.com/patelsaumya/NewsForge)  📰** - REST API for Hacker News article ingestion, browsing, and engagement, with AI-powered summaries, semantic similarity, auto-tagging, RAG search, and grounded Q&A.
+-   **[Coding-Agent](https://github.com/patelsaumya/Coding-Agent)  🧑‍💻** - Autonomous coding agent that plans tasks, writes and reviews code in a loop, and opens a GitHub pull request via GitHub MCP from natural-language input.
 -   **[Bookmyshow](https://github.com/patelsaumya/Bookmyshow)  🎬** - AI agent system for movie discovery, showtimes, and seat booking.
 -   **[Voice-Agent](https://github.com/patelsaumya/Voice-Agent)  🎙️** - **Ordera (Ordering System)** — real-time voice conversation app.
 -   **[Workflow-Agents](https://github.com/patelsaumya/Workflow-Agents)  🤖** - Multi-agent AI pipelines (Parallel, Sequential, Loop) for math problem solving, startup idea validation, and story generation.
