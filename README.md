@@ -24,7 +24,7 @@
 
 ## 🚀 Projects
 
--   **Elee 🐘** — AI-powered dating app (Android / iOS). Train a personal Elee avatar, explore matches, and connect smarter.
+-   **Elee 🐘** ```coming soon``` — AI-powered dating app (Android / iOS). Train a personal Elee avatar, explore matches, and connect smarter.
     - **Onboarding & Elee twin** — Sign-up, email verification, and profile setup, answer relationship and preference questions to train your personal Elee avatar twin
     - **Discover & match** — Explore profiles, swipe, like, mutual matches, and a Favorites feed for incoming likes  
     - **Elee Checks** — AI2AI compatibility analysis with scores, red/green flags, and relationship insights  
