@@ -3,7 +3,7 @@
 👋 I'm Saumya, a Software Engineer.
 
 -   💯 Passionate about everything that I get the hang of.
--   🔭 Next in my "Learning" Checklist - Artificial Intelligence 🤖.
+-   🔭 Next in my "Learning" Checklist - AWS ☁️.
 
 ☕ Let's have a coffee-chat and create something better together...
 
@@ -19,10 +19,14 @@
 -   **Mobile** : Flutter
 -   **Backend / APIs** : Node.js, Django, Flask, FastAPI
 -   **Database** : MySQL, PostgreSQL
--   **DevOps** : Git, Firebase
+-   **DevOps** : Git
+-   **Cloud** : AWS, DigitalOcean, Firebase
 
 ## 🚀 Projects
 
+-   **[Bookmyshow](https://github.com/patelsaumya/Bookmyshow)** - AI agent system for movie discovery, showtimes, and seat booking, built with Google ADK and Supabase.
+-   **[Voice-Agent](https://github.com/patelsaumya/Voice-Agent)** - **Ordera (Ordering System)** — real-time voice conversation app powered by Deepgram's Voice Agent API, with a Flutter frontend and FastAPI backend.
+-   **[Workflow-Agents](https://github.com/patelsaumya/Workflow-Agents)** - Multi-agent AI pipelines (Parallel, Sequential, Loop) for math problem solving, startup idea validation, and story generation using Google ADK.
 -   **[MegaCryption](https://megacryption.vercel.app/)** - Captivating visualizer that elucidates the intricate workings of cryptology algorithms.
 -   **[OSVIS](https://osvis.vercel.app/)** - Disk scheduling algorithms of Operating System.
 -   **[GamPly](https://github.com/patelsaumya/GamPly)** - Treasure of enthralling games, including the addictive Wordle and the timeless Hangman, alongside an array of other thrilling delights that shall soon grace our presence.
