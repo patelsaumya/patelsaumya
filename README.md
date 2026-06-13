@@ -22,7 +22,7 @@
 -   **DevOps** : Git
 -   **Cloud** : AWS, DigitalOcean, Firebase
 
-## 🚀 Projects
+## 🚀 Projects | Apps
 
 -   **Elee 🐘** ```coming soon``` — AI-powered dating app (Android / iOS). Train a personal Elee avatar, explore matches, and connect smarter.
     - **Onboarding & Elee twin** — Sign-up, email verification, and profile setup, answer relationship and preference questions to train your personal Elee avatar twin
