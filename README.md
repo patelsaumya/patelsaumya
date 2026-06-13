@@ -29,7 +29,7 @@
     - **Discover & match** — Explore profiles, swipe, like, mutual matches, and a Favorites feed for incoming likes  
     - **Elee Checks** — AI2AI compatibility analysis with scores, red/green flags, and relationship insights  
     - **Share & scan** — Profile links and QR codes; scan in person to view a profile or open chat if already matched  
-    - **Chat** — Real-time messaging after matching, with typing indicators and read receipts
+    - **Chat** — Real-time messaging after matching, with typing indicators and unread badges
     - **Notifications** — FCM push for likes, matches, app events, campaign updates, and announcements  
     - **Safety & settings** — Edit profile and photos, customize your Elee avatar, and block or unblock matched users
 -   **[Bookmyshow](https://github.com/patelsaumya/Bookmyshow)** - AI agent system for movie discovery, showtimes, and seat booking.
